@@ -58,8 +58,8 @@ span:before{
   position: absolute;
   top: -100%
   right: 0;
-  height: 4px;
   width: 100%;
+  height: 4px;
   background-color: white;
   transition: all 0.5s;
 }
